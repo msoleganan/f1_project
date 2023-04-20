@@ -42,35 +42,3 @@ Formula 1 World Championship - https://www.kaggle.com/datasets/rohanrao/formula-
 Fast F1- https://theoehrly.github.io/Fast-F1/
 
 Visual Crossing - https://www.visualcrossing.com/
-
-
-ORGANIZATION OF FIILES:
-
-Final_Project
-├── Data
-│   ├── circuits.csv
-│   ├── constructor_results.csv
-│   ├── constructor_standings.csv
-│   ├── constructors.csv
-│   ├── driver_standings.csv
-│   ├── drivers.csv
-│   ├── lap_times.csv
-│   ├── montmelo_scheldule.csv
-│   ├── pit_stops.csv
-│   ├── quali_info.csv
-│   ├── qualifying.csv
-│   ├── qualifying_2023.csv
-│   ├── qualifying_2023.xls
-│   ├── race_weather.csv
-│   ├── races.csv
-│   ├── results.csv
-│   ├── seasons.csv
-│   ├── sprint_results.csv
-│   ├── status.csv
-│   └── weather_quali.csv
-├── README.md
-├── __pycache__
-│   └── functions.cpython-39.pyc
-├── f1_project.ipynb
-└── functions.py
-└── Presentacion.pdf
