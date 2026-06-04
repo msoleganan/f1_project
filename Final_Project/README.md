@@ -69,8 +69,6 @@ Final_Project
 │   ├── status.csv
 │   └── weather_quali.csv
 ├── README.md
-├── __pycache__
-│   └── functions.cpython-39.pyc
 ├── f1_project.ipynb
 └── functions.py
 └── Presentacion.pdf
